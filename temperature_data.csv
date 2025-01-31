@@ -1,0 +1,10 @@
+city,date,temperature
+Bangkok,2024-01-01,32
+Bangkok,2024-01-02,33
+Bangkok,2024-01-03,31
+Tokyo,2024-01-01,5
+Tokyo,2024-01-02,7
+Tokyo,2024-01-03,6
+New York,2024-01-01,-2
+New York,2024-01-02,0
+New York,2024-01-03,-1
